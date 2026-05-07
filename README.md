@@ -4,7 +4,7 @@
 
 | Field         | Details                          |
 |---------------|----------------------------------|
-| Name          | Shaheed Kolhar                   |
+| Name          | shaheed Kolhar                   |
 | USN           | 2BL24CS418                       |
 | Branch        | Computer Science & Engineering   |
 | Semester      | VI Semester                      |
@@ -33,10 +33,10 @@ This is a Database Configuration Reader application built using Java Servlets. I
 ## Screenshots
 
 ### Input Form
-![Input Form](screenshots/screenshot1.png)
+![Input Form](result/WhatsApp Image 2026-05-07 at 13.10.52.jpeg)
 
 ### Output / Result Page
-![Output Page](screenshots/screenshot2.png)
+![Output Page](result/WhatsApp Image 2026-05-07 at 13.10.54.jpeg)
 
 ## Servlet Concept Practiced
 
