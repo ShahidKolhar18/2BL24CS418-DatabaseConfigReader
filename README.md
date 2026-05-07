@@ -39,7 +39,8 @@ This is a Database Configuration Reader application built using Java Servlets. I
 
 ### Output / Result Page
 ![Output Page]
-<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/a3cc206e-0022-422c-bf2e-e7b9c46ce3eb" />
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/68a1d516-56ee-4c52-b147-ebc10deabb2f" />
+
 
 
 ## Servlet Concept Practiced
